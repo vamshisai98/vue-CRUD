@@ -15,7 +15,7 @@
         <input id="title" name="title" type="text" ref="titleInput" />
       </div>
       <div class="form-control">
-        <label for="description">Description</label>
+        <label for="description">Descriptions</label>
         <textarea id="description" name="description" rows="3" ref="descInput"></textarea>
       </div>
       <div class="form-control">
