@@ -9,7 +9,7 @@
       <input id="age" name="age" type="number" />
     </div>
     <div class="form-control">
-      <label for="referrer">How did you hear about us?</label>
+      <label for="referrer">How did you hear about us</label>
       <select id="referrer" name="referrer">
         <option value="google">Google</option>
         <option value="wom">Word of mouth</option>
